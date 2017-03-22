@@ -1,0 +1,54 @@
+    ======  ======
+    Time:2017/3/22 17:00:15
+    Title: Initiate log
+    Message: 
+    Time:2017/3/22 17:00:15
+    Title: Initiate InternalManager
+    Message: Trying to Validate License
+    Time:2017/3/22 17:00:15
+    Title: Requesting EVT
+    Message: EVTP
+    Time:2017/3/22 17:00:15
+    Title: Requesting Validation
+    Message: ILMValidate
+    Time:2017/3/22 17:00:15
+    Title: Requesting Validation
+    Message: ILMValidate True
+    Time:2017/3/22 17:00:15
+    Title: Requesting Validation
+    Message: ILMValidate True NotTrial
+    Time:2017/3/22 17:00:16
+    Title: 不允许所请求的注册表访问权。
+    Message:    在 System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   在 Telerik.Licensing.Licenser.CheckRegistryTimeStamp()
+   在 Telerik.Licensing.Licenser.TryCheckLicenseExists()
+    Time:2017/3/22 17:00:16
+    Title: LICENSER
+    Message: READ REGS START
+    Time:2017/3/22 17:00:16
+    Title: LIC EXP_KEY
+    Message: NULL
+    Time:2017/3/22 17:00:16
+    Title: LICENSER
+    Message: READ REGS SUCCESS
+    Entering constructor for: Telerik.CommonPackage.Telerik_CommonPackagePackage
+    Entering Initialize() of: Telerik.CommonPackage.Telerik_CommonPackagePackage
+    devenv.exe Information: 0 : 2017/3/22 9:01:59:  - TokenCache: Deserialized 3 items to token cache.
+    Web method running: [https://app.vssps.visualstudio.com/_apis/connectionData?connectOptions=IncludeServices&lastChangeId=191&lastChangeId64=191] (GET)connectionData[connectionData]
+    Web method running: [https://app.vssps.visualstudio.com/_apis/connectionData?connectOptions=IncludeServices&lastChangeId=191&lastChangeId64=191] (GET)connectionData[connectionData]
+    Web method response: [https://app.vssps.visualstudio.com/_apis/connectionData?connectOptions=IncludeServices&lastChangeId=191&lastChangeId64=191] (GET)connectionData[connectionData] 1294 ms
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/connectionData?connectOptions=IncludeServices&lastChangeId=22161&lastChangeId64=22161] (GET)connectionData[connectionData]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/connectionData?connectOptions=IncludeServices&lastChangeId=22161&lastChangeId64=22161] (GET)connectionData[connectionData] 1422 ms
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me?details=true&withattributes=false&coreattributes=Minimal%2CEmail%2CAvatar%2CDisplayName%2CAll] (GET)me[Profile]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me?details=true&withattributes=false&coreattributes=Minimal%2CEmail%2CAvatar%2CDisplayName%2CAll] (GET)me[Profile] 1134 ms
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Locations?profilePageType=Update] (GET)Locations[Profile]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Locations?profilePageType=Update] (GET)Locations[Profile] 281 ms
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Settings/ProfileRefreshInterval] (GET)ProfileRefreshInterval[Profile]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Settings/ProfileRefreshInterval] (GET)ProfileRefreshInterval[Profile] 287 ms
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Attributes?partition=VisualStudio.14_PreferredProfile&modifiedafterrevision=543159] (GET)Attributes[Profile]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Attributes?partition=VisualStudio.14_PreferredProfile&modifiedafterrevision=543159] (GET)Attributes[Profile] 323 ms
+    Web method running: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Avatar?size=Small] (GET)Avatar[Profile]
+    Web method response: [https://app.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Avatar?size=Small] (GET)Avatar[Profile] 263 ms
+    Entering constructor for: Microsoft.PythonTools.PythonToolsPackage
+    Entering Initialize() of: Microsoft.PythonTools.PythonToolsPackage

@@ -1,0 +1,12 @@
+D:\MYFile\Swagger_Test\WcfTest\CATest\bin\Debug\CATest.exe.config
+D:\MYFile\Swagger_Test\WcfTest\CATest\bin\Debug\CATest.exe
+D:\MYFile\Swagger_Test\WcfTest\CATest\bin\Debug\CATest.pdb
+D:\MYFile\Swagger_Test\WcfTest\CATest\obj\Debug\CATest.csprojResolveAssemblyReference.cache
+D:\MYFile\Swagger_Test\WcfTest\CATest\obj\Debug\CATest.exe
+D:\MYFile\Swagger_Test\WcfTest\CATest\obj\Debug\CATest.pdb
+C:\Users\Jason_Chen\Source\Repos\SwaggerWcf\WcfTest\CATest\bin\Debug\CATest.exe.config
+C:\Users\Jason_Chen\Source\Repos\SwaggerWcf\WcfTest\CATest\bin\Debug\CATest.exe
+C:\Users\Jason_Chen\Source\Repos\SwaggerWcf\WcfTest\CATest\bin\Debug\CATest.pdb
+C:\Users\Jason_Chen\Source\Repos\SwaggerWcf\WcfTest\CATest\obj\Debug\CATest.csprojResolveAssemblyReference.cache
+C:\Users\Jason_Chen\Source\Repos\SwaggerWcf\WcfTest\CATest\obj\Debug\CATest.exe
+C:\Users\Jason_Chen\Source\Repos\SwaggerWcf\WcfTest\CATest\obj\Debug\CATest.pdb

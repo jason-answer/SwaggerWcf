@@ -1,0 +1,9 @@
+D:\MYFile\Swagger_Test\WcfTest\WcfTest\bin\WcfTest.dll.config
+D:\MYFile\Swagger_Test\WcfTest\WcfTest\bin\WcfTest.dll
+D:\MYFile\Swagger_Test\WcfTest\WcfTest\bin\WcfTest.pdb
+D:\MYFile\Swagger_Test\WcfTest\WcfTest\bin\Newtonsoft.Json.dll
+D:\MYFile\Swagger_Test\WcfTest\WcfTest\bin\SwaggerWcf.dll
+D:\MYFile\Swagger_Test\WcfTest\WcfTest\bin\Newtonsoft.Json.xml
+D:\MYFile\Swagger_Test\WcfTest\WcfTest\obj\Release\WcfTest.csprojResolveAssemblyReference.cache
+D:\MYFile\Swagger_Test\WcfTest\WcfTest\obj\Release\WcfTest.dll
+D:\MYFile\Swagger_Test\WcfTest\WcfTest\obj\Release\WcfTest.pdb
